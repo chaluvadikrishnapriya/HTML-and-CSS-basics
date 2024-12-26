@@ -1,0 +1,32 @@
+/*body{
+    background-color: bisque;
+    text-align: center;
+}
+p{
+    font-size: 25px;
+    color:rgb(39, 172, 172)
+}
+h1{
+    color:red;
+}
+h2{
+    color:blue;
+}
+    /*id selector
+    
+#p1
+{
+    color:blueviolet
+}
+    /*class selector
+.p2
+{
+    color:brown;
+}*/
+/*univeral selctor*/
+*{
+    background-color: rgb(14, 112, 198);
+    color:white;
+    font-size: larger;
+    text-decoration: underline;
+}

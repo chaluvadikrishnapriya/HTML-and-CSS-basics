@@ -1,0 +1,13 @@
+body{
+    background:red;
+}
+@media screen and (max-width:500px) {
+    body {
+    background-color:pink;
+    }
+}
+@media screen and (min-width:800px) {
+    body {
+    background-color:rgb(77, 66, 236);
+    }
+}

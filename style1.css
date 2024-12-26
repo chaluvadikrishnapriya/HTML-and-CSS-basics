@@ -1,0 +1,35 @@
+.firstclass{
+    background-color: yellow;
+    text-align: center;
+    font-size: large;
+}
+.parent{
+    height:10vh;
+    width:10vw;
+    background-color: aqua;
+    top:10%;
+    left:10%;
+    margin-top: -10px;
+    margin-left:-10px;
+}
+.child
+{
+    height:50%;
+    width:50%;
+    background-color:yellowgreen;
+  
+    margin-top: -10px;
+    margin-left:-10px;
+   
+    
+}
+.second{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    font-style: oblique;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(53, 53, 149);
+    text-transform: none;
+    text-justify: distribute;
+}

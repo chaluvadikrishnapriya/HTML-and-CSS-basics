@@ -1,0 +1,24 @@
+img{
+    height: 100px;
+    display: block;
+}
+h1{
+    background-color: aqua;
+    display: inline;
+}
+a{
+    background-color: lightblue;
+    display: block;
+}
+.divi{
+    background-color: rgb(107, 107, 225);
+    height:100px ;
+    display: inline;
+}
+h2{
+    background-color: rgb(13, 240, 164);
+  display:inline;
+}
+body{
+    text-align: center;
+}

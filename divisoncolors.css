@@ -1,0 +1,47 @@
+.parent{
+    
+    border: 10px solid ;
+    height:100px;
+    padding-top: 20px;
+ 
+}
+.one
+{
+    background-color:aqua;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    border: 5px solid ;
+    margin:20px 20px;
+}
+.two
+{
+    background-color:orange;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    border: 5px solid ;
+    margin:20px 20px;
+}
+.three
+{
+    background-color:pink;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    border: 5px solid ;
+    margin:20px 20px;
+}
+.four
+{
+    background-color:violet;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    border: 5px solid ;
+    margin:20px 20px;
+}
+.five
+{
+    background-color:lavenderblush;
+    padding: 20px 20px 20px 20px;
+    text-align: center;
+    border: 5px solid ;
+    margin:20px 20px;
+}

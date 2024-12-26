@@ -1,0 +1,65 @@
+div.img{
+   background-image: url(google1.png);
+    border: 2px solid #000000;
+    background-size: cover;
+  }
+div.img2{
+  background-color: #000;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+div.img2 p{
+    text-align: center;
+    margin: 5%;
+  font-weight: bold;
+  font-size: 50px;
+  color: #ffff;
+}
+.nav {
+    display: block;
+    background-color: antiquewhite;
+    height: auto;
+    margin: 0px;
+    padding: 0%;
+    
+}
+.nav ul{
+    display: flex;
+    justify-content: right;
+    margin: 0%;
+    padding: 0%;    
+
+}
+.nav ul li{
+  padding: 0%;
+   margin:10px;
+    border-bottom: 2px solid black;
+   border-width: 0px;
+}
+.nav ul li a{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0%;
+}
+.nav ul{
+    list-style: none;
+    padding: 0px;
+}
+.nav ul li:hover
+{
+    border-bottom: 2px solid red;
+    border-width:2px;
+}
+.hi
+{
+  
+        background-image: url(div.img{
+            background-image: url(google1.png);
+             border: 2px solid #000000;
+             background-size: cover;
+           
+         border: 2px solid #000000;
+         background-size: cover;
+       
+ 
+}

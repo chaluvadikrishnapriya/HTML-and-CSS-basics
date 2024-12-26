@@ -1,0 +1,32 @@
+*
+{
+    justify-content: center;
+    text-align: center;
+
+}
+body{
+    background-color: rgba(0, 0, 255, 0.455);
+}
+.text
+{
+    height:auto;
+    display: flex;
+    
+    background-color: antiquewhite; 
+    
+    
+}
+div{
+
+    text-align: center;
+    font-size: 30px;
+    margin: 10px 10px 10px 10px;
+    box-shadow:  5px 5px rgba(128, 128, 128, 0.316);
+   
+}
+img{
+height: 100px;
+border-radius: 100px;
+box-shadow:  3px 3px salmon;
+border: 5px solid black;
+}

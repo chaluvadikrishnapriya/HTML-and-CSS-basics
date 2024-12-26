@@ -1,0 +1,31 @@
+.nav {
+    display: block;
+    background-color: antiquewhite;
+    height: auto;
+    
+}
+.nav ul{
+    display: flex;
+    justify-content: right;    
+
+}
+.nav ul li{
+   margin:20px;
+    border-bottom: 2px solid black;
+   border-width: 0px;
+}
+.nav ul li a{
+    text-decoration: none;
+}
+.nav ul{
+    list-style: none;
+}
+.nav ul li:hover
+{
+    border-bottom: 2px solid red;
+    border-width:2px;
+}
+.hi
+{
+    justify-content: left;
+}

@@ -1,0 +1,56 @@
+
+*
+{
+    justify-content: center;
+}
+.text
+{
+    height:auto;
+    background-color: burlywood;
+    display: flex;
+    
+}
+div{
+    border:5px solid black;
+    margin:5px 5px;
+    padding:10px 10px 10px 10px;
+    text-align: center;
+    height:50px;
+    font-size: 30px;
+   
+}
+.one
+{
+    background-color: rgba(0, 255, 255, 0.558);
+    
+}
+.two
+{
+    background-color: rgba(127, 255, 212, 0.781);
+}
+.three
+{
+    background-color:beige;
+}
+.four
+{
+    background-color:blanchedalmond;
+}
+.five
+{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+h1:hover
+{
+    background-color:gray;
+    cursor:pointer;
+    border-bottom: 5px solid red;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    opacity: 0.5;
+    
+}

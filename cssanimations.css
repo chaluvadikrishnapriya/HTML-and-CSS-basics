@@ -1,0 +1,90 @@
+*{
+margin:50px;
+}
+.one{
+    height:100px;
+    width:200px;
+    background: blueviolet;
+    transition-property: height width background-color;
+    transition-duration: 4s;
+
+}
+.one:hover{
+    height: 200px;
+    width:400px;
+    background:yellow;
+    cursor: pointer;
+}
+.two
+{
+    height: 100px;
+    width:100px;
+    background:rgb(102, 255, 0);
+    transition-property: all;
+    transition-duration: 4s;
+
+}
+.two:hover{
+    height: 300px;
+    width:100px;
+    background:rgb(218, 218, 52);
+    transform: translateX(200px);
+    transform: translateY(300px);
+}
+.three
+{
+    height: 100px;
+    width:100px;
+    background:rgb(0, 255, 234);
+    transition-property: all;
+    transition-duration: 4s;
+
+}
+.three:hover{
+   transform: rotateY(180deg);
+}
+.four
+{
+    height: 100px;
+    width:100px;
+    background:rgb(255, 230, 0);
+   /* transition-property: all;
+    transition-duration: 4s;*/
+    animation:sample 2s 10;
+}
+.four:hover{
+   
+    /*transform: scaleX(2);*/
+transform: skewX(200deg);
+}
+@keyframes sample {
+    0%
+    {
+        background-color: aqua;
+    }
+    20%
+    
+        {
+        background-color:rgb(24, 24, 197);
+    
+        }
+      40%
+        {
+            background-color:rgb(24, 197, 70);
+            transform: translateX(200px);
+        }
+        60%
+    
+        {
+        background-color:rgb(174, 24, 197);
+    
+        }
+       80%
+        {
+            background-color:rgb(197, 24, 102);
+        }
+        100%
+        {
+            background-color: brown;
+        }
+}
